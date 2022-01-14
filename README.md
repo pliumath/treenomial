@@ -20,7 +20,5 @@ arXiv:1904.03332 (2019).](https://arxiv.org/abs/1904.03332)
 
 ## Installation
 
-To install, use
-
     library(devtools)
     install_github("pliumath/treenomial")
