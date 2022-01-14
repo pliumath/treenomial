@@ -20,14 +20,10 @@ arXiv:1904.03332 (2019).](https://arxiv.org/abs/1904.03332)
 
 ## Installation
 
-To install using [CRAN](https://cran.r-project.org/package=treenomial):
-
-    install.packages("treenomial")
-
-For the development version:
+To install, use
 
     library(devtools)
-    install_github("mattgou1d/treenomial")
+    install_github("pliumath/treenomial")
 
 ## Example tree and polynomial
 
