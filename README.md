@@ -1,8 +1,5 @@
 
-# treenomial
-
-[![CRAN
-status](https://www.r-pkg.org/badges/version/treenomial)](https://cran.r-project.org/package=treenomial)
+# treenomial 1.2.5
 
 ## Overview
 
