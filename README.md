@@ -10,8 +10,8 @@ comparison based on polynomials and the tree lattice. The core functions are:
   - **`treeToPoly()`**: convert rooted unlabeled binary trees to tree
     distinguishing polynomials described with coefficient matrices
 
-  - **`treeToLattice()`**: construct rooted binary trees with branch lengths 
-    to the lattice representation
+  - **`treeToLattice()`**: convert rooted binary trees with branch lengths 
+    to the lattice representations
 
 For the mathematical description of the tree defining polynomial see:
 
