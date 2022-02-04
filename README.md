@@ -15,7 +15,7 @@ comparison based on polynomials and the tree lattice. The core functions are:
 
 For the mathematical description of the tree defining polynomial see:
 
-[Liu, Pengyu. “A tree distinguishing polynomial.” *Discrete Applied Mathematics* (2021).](https://doi.org/10.1016/j.dam.2020.08.019)
+[Liu, Pengyu. “A tree distinguishing polynomial.” *Discrete Applied Mathematics* 288 (2021).](https://doi.org/10.1016/j.dam.2020.08.019)
 
 ## Installation
 
