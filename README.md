@@ -4,14 +4,14 @@
 ## Overview
 
 The package **treenomial** is an application of polynomials that
-uniquely describe trees. It provides tools for tree analysis and
-comparison based on polynomials. The core functions are:
+uniquely describe trees and a tree lattice that serves as a coordinate system for rooted binary trees. It provides tools for tree analysis and
+comparison based on polynomials and the tree lattice. The core functions are:
 
   - **`treeToPoly()`**: convert rooted unlabeled binary trees to tree
     distinguishing polynomials described with coefficient matrices
 
-  - **`polyToDistMat()`**: construct a distance matrix from multiple
-    coefficient matrices using a distance measure
+  - **`treeToLattice()`**: construct rooted binary trees with branch lengths 
+    to the lattice representation
 
 For the mathematical description of the tree defining polynomial see:
 
