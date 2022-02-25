@@ -13,9 +13,11 @@ comparison based on polynomials and the tree lattice. The core functions are:
   - **`treeToLattice()`**: convert rooted binary trees with branch lengths 
     to the lattice representations
 
-For the mathematical description of the tree defining polynomial see:
+For descriptions of the tree lattice, tree distinguishing polynomial and related metrics see:
 
-[Liu, Pengyu, A tree distinguishing polynomial, *Discrete Applied Mathematics* 288 (2021).](https://doi.org/10.1016/j.dam.2020.08.019)
+[Pengyu Liu, Priscila Biller, Matthew Gould, Caroline Colijn, Analyzing phylogenetic trees with a tree lattice coordinate system and a graph polynomial, *Systematic Biology* (2022).](https://doi.org/10.1093/sysbio/syac008)
+
+[Pengyu Liu, A tree distinguishing polynomial, *Discrete Applied Mathematics* (2021).](https://doi.org/10.1016/j.dam.2020.08.019)
 
 ## Installation
 
